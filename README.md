@@ -3,14 +3,14 @@
 Objective: Developed a comprehensive dashboard to analyze online sales nationwide for Madhav Store.
 
 Achievements:
-Tracked sales data effectively.
-Created interactive visualizations.
-Supported strategic decision-making.
+* Tracked sales data effectively.
+* Created interactive visualizations.
+* Supported strategic decision-making.
 
 Skills:
-Power BI
-Sales Analysis
-Data Visualization
+* Power BI
+* Sales Analysis
+* Data Visualization
 
 Impact: Empowered Madhav Store with actionable insights, optimizing their online sales strategy.
 
